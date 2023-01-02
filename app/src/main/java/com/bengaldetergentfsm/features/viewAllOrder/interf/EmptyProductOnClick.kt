@@ -1,0 +1,8 @@
+package com.bengaldetergentfsm.features.viewAllOrder.interf
+
+import com.bengaldetergentfsm.features.viewAllOrder.model.ProductOrder
+
+interface EmptyProductOnClick {
+    fun emptyProductOnCLick(emptyFound:Boolean)
+    fun delProductOnCLick(isDel:Boolean)
+}

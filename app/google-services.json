@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718099595122",
+    "project_id": "bengal-detergent-fsm",
+    "storage_bucket": "bengal-detergent-fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718099595122:android:8b3d13585158fce2eb67eb",
+        "android_client_info": {
+          "package_name": "com.bengaldetergentfsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718099595122-jprem4g557s5gvmui982rh4uq5f8vsb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArAoFnYNb1_y8X0OGFoSEQSPVC6lE2o3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718099595122-jprem4g557s5gvmui982rh4uq5f8vsb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
