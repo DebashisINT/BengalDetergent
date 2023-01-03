@@ -14,6 +14,7 @@
     <!--<string name="MAP_ProjectAPIKey">AIzaSyBRrqsLZFqThqM8uxw_k94pZMbv3-3h0dM</string>-->
     <string name="MAP_ProjectAPIKey" translatable="false">AIzaSyDPifPruDi_5nkpXPgKMHEYHWyrIaY35Fc</string>
 
+
     <!--Login-->
     <string name="username_new" translatable="false">Username</string>
     <string name="username" translatable="false">Enter Login ID</string>
@@ -1427,6 +1428,9 @@
     <!--Splash-->
     <string name="use_location" translatable="false">Use your location</string>
     <string name="loc_msg" translatable="false">Field Sales Management App collects location data after you open and login into the App,\u0020to identify nearby Parties location even when the app is running in the background and not in use.</string>
+    <string name="loc_msg_new" translatable="false">Field Sales Management App collects location data after you open and login into the App,\u0020to identify nearby Parties location even when the app is running in the background and not in use.This app collects location data to enable nearby shops, GPS route,
+        even when the app is closed or not in use.</string>
+
 
     <!--My Jobs-->
     <string name="view_details" translatable="false">View Details</string>

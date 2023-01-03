@@ -487,6 +487,8 @@ class OrderTypeListFragment : BaseFragment(), View.OnClickListener {
         iv_filter.isEnabled = false
         iv_search_frag_order_type_list.setOnClickListener(this)
 
+
+
         val scope = CoroutineScope(Dispatchers.Main + SupervisorJob())
         scope.launch {
             try {
